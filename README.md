@@ -1,4 +1,8 @@
-### Hi there 👋
+### I'm a data analytics grad working on improving my visualization and machine learning skills.
+
+I will most definitely get distracted by random side projects.
+
+Current goal: Use ML to generate drum and bass music
 
 <!--
 **kingkimera/kingkimera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
