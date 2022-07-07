@@ -1,5 +1,8 @@
 ### I'm a data analytics grad working on improving my visualization and machine learning skills.
 
+![pie](https://user-images.githubusercontent.com/90280431/177663373-eb0bf0c1-e672-4383-ba52-068a8b3bbd60.png)
+
+
 I will most definitely get distracted by random side projects.
 
 Current goal: (LEARN the WAVE package so that I CAN) Use ML to generate drum and bass music
