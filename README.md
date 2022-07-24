@@ -1,4 +1,4 @@
-### I'm a data analytics grad working on finging a jobbb (and lots of random projects).
+### I'm a data analytics grad working on finding a job (and lots of random projects).
 
 ![pie](https://user-images.githubusercontent.com/90280431/177663373-eb0bf0c1-e672-4383-ba52-068a8b3bbd60.png)
 
